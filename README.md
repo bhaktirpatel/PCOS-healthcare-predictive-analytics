@@ -25,16 +25,7 @@ https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset
 * Matplotlib
 * Scikit-learn
 * Jupyter Notebook
-
-## Project Structure
-PCOS-Disease-Prediction/
-│
-├── data/
-├── notebooks/
-├── docs/
-├── results/
-└── README.md
-
+  
 ## Ethical Considerations
 * No personal patient identifiers were used
 * Dataset was publicly available

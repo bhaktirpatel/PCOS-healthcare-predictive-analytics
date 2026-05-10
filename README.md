@@ -13,7 +13,7 @@ The main objective of this project is to:
 - Build machine learning models for disease prediction
 - Compare model performance using evaluation metrics
 - Understand the workflow of healthcare predictive analytics
-- 
+  
 # Machine Learning Problem Type
 
 - Learning Type: Supervised Machine Learning
@@ -90,7 +90,7 @@ The models were evaluated using:
 - Accuracy Score
 - Classification Report
 - Confusion Matrix
-- 
+  
 ### Model Performance
 
 - Logistic Regression Accuracy: ~88%
@@ -114,9 +114,9 @@ PCOS-healthcare-predictive-analytics
 ## Processed
   Cleaned datasets
 ## Notebooks
-  01_data_cleaning.ipynb
-  02_eda_visualization.ipynb
-  03_model_building.ipynb
+- 01_data_cleaning.ipynb
+- 02_eda_visualization.ipynb
+- 03_model_building.ipynb
   
 # Ethical Considerations
 

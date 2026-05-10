@@ -7,24 +7,24 @@ The goal of this project is to analyze PCOS-related medical parameters and build
 ## Dataset
 Public healthcare dataset used for educational and research purposes.
 
-Dataset Source:
+## Dataset Source:
 https://www.kaggle.com/datasets/shreyasvedpathak/pcos-dataset
 
 ## Workflow
-* Data cleaning and preprocessing
-* BMI correction and feature standardization
-* Handling missing values
-* Exploratory Data Analysis (EDA)
-* Machine learning model training
-* Feature importance analysis
+- Data cleaning and preprocessing
+- BMI correction and feature standardization
+- Handling missing values
+- Exploratory Data Analysis (EDA)
+- Logistic Regression
+- Random Forest Classification
+- Model Evaluation
+- Machine learning model training
+- Feature importance analysis
 
-## Tools & Technologies
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
+## Project Structure
+- 01_data_cleaning.ipynb
+- 02_eda_visualization.ipynb
+- 03_model_building.ipynb
   
 ## Ethical Considerations
 * No personal patient identifiers were used
